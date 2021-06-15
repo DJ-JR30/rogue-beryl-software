@@ -1,0 +1,19 @@
+{
+  "name": "rogue-beryl-software",
+  "version": "1.0.0",
+  "description": "Rogue Beryl Software is an npm package designed to help anyone with somethings almost in every project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-JR30/rogue-beryl-software.git"
+  },
+  "author": "Royal ACE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DJ-JR30/rogue-beryl-software/issues"
+  },
+  "homepage": "https://github.com/DJ-JR30/rogue-beryl-software#readme"
+}
