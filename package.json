@@ -1,6 +1,6 @@
 {
   "name": "rogue-beryl-software",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "Rogue Beryl Software is an npm package designed to help anyone with somethings almost in every project.",
   "main": "index.js",
   "scripts": {
